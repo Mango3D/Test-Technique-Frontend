@@ -3,7 +3,7 @@ import {Global} from '@emotion/core';
 import {css} from 'emotion';
 import {HashRouter, Route} from 'react-router-dom';
 import {AnimatedSwitch} from 'react-router-transition';
-import Home from './pages/home';
+import Home from './pages/Home';
 import Control from './pages/Control';
 import ZAxis from './pages/ZAxisPage';
 
