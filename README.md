@@ -16,7 +16,7 @@ Libre à vous d'ajouter des node_modules et des fichiers si vous en avez besoin 
 
 ![](screen.png)
 
-##Les contraintes
+## Les contraintes
 
 ### Bloc de 6 boutons 
 - Le bloc doit être centré au milieu de la page horizontalement et verticalement.
